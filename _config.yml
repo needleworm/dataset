@@ -19,7 +19,7 @@ books:
     - shop: yes24
       url: #
     - shop: kyobo
-      url: #
+      url: http://www.yes24.com/Product/Goods/107036705
 
 - title: HTML, CSS, 자바스크립트
   pic: https://cdn.jsdelivr.net/gh/needleworm/needleworm.github.io/src/images/books/covers/12.jpg
@@ -31,7 +31,7 @@ books:
     - shop: yes24
       url: #
     - shop: kyobo
-      url: #
+      url: http://www.yes24.com/Product/Goods/107010853
 
 
 - title: 봄 여름 가을 겨울 그리고 봄
