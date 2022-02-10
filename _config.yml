@@ -13,13 +13,13 @@ books:
   pic: https://cdn.jsdelivr.net/gh/needleworm/needleworm.github.io/src/images/books/covers/12.jpg
   stores:
     - shop: naver
-      url: #
+      url: https://book.naver.com/bookdb/book_detail.nhn?bid=21499497
     - shop: aladdin
-      url: #
+      url: https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8970505369&start=pnaver_02
     - shop: yes24
-      url: #
-    - shop: kyobo
       url: http://www.yes24.com/Product/Goods/107010853
+    - shop: kyobo
+      url: http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9788970505367
 
 
 - title: 봄 여름 가을 겨울 그리고 봄
