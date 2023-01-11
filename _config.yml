@@ -2,9 +2,9 @@ url: https://needleworm.github.io/
 baseurl: /dataset
 
 # Site settings
-title: AI, 빅데이터 활용이 쉬워지는 142가지 데이터셋
+title: Datasets
 email: bhban@kakao.com
-description: 세계가 주목하는 데이터셋 집대성! 영상, 자율주행, 자연어 처리, 기계번역, 음성, 강화학습, 과학기술 분야 등
+description: AI, 빅데이터 활용이 쉬워지는 142가지 데이터셋! 세계가 주목하는 데이터셋 집대성! 영상, 자율주행, 자연어 처리, 기계번역, 음성, 강화학습, 과학기술 분야 등
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
